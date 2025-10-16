@@ -4,7 +4,7 @@ A Bitcoin dashboard built with modern web technologies.
 
 ## Project info
 
-**URL**: [https://lovable.dev/projects/908f9bc1-215d-4748-a0f4-f5debc2acf3c](https://btc-dashboard-ecru.vercel.app/)
+**URL**: [https://btc-dashboard-ecru.vercel.app/](https://btc-dashboard-ecru.vercel.app/)
 
 
 
