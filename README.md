@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# BTC Dashboard
+
+A Bitcoin dashboard built with modern web technologies.
 
 ## Project info
 
